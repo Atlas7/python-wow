@@ -1,0 +1,4 @@
+name: py36-python-wow
+dependencies:
+  - python=3.6
+  - anaconda

@@ -1,0 +1,5 @@
+# Ignore Jupyter Notebook checkpoint
+.ipynb_checkpoints/
+
+# PyCharm IDE
+.idea
