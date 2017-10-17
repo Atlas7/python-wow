@@ -6,7 +6,7 @@ Here is a dump of some interesting experiments hopefully will help inspire a few
 
 ### Instructions
 
-Download and install [Anaconda] on your system. (I am on the Python 3 version).
+Download and install [Anaconda](https://www.anaconda.com/download) on your system. (I am on the Python 3 version).
 
 Comment: This way you get to create different python environments without impacting the one
 on your system. It also comes with a bunch of handy data science libraries.
