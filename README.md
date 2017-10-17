@@ -43,6 +43,6 @@ Now, fire up Jupyter Notebook:
 
 ```
 jupyter notebook
-``
+```
 
 Access Jupyter Notebook at [http://localhost:8888/](http://localhost:8888/) and start playing!
