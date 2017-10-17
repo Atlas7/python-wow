@@ -8,6 +8,18 @@ Here is a dump of some interesting experiments hopefully will help inspire a few
 
 Have Anaconda already installed in your system. (I am on the Python 3 version).
 
+Git clone this repository (to somewhere appropriate on your system)
+
+```
+git clone https://github.com/Atlas7/python-wow
+```
+
+Navigate to the repository root:
+
+```
+cd python-wow
+```
+
 Create a new python environment by doing this:
 
 ```
